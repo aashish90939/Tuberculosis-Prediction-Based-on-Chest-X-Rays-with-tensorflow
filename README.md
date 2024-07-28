@@ -86,5 +86,5 @@ By following these instructions, you should have a fully operational environment
 
 ## Getting Started
 
-To get started with this project, reading of `Project-Report.pdf` (aout 15 page in maximum) is highly recommendable before approaching the code.
+To get started with this project, reading of `Project-Report.pdf` (about 15 page in maximum) is highly recommendable before approaching the code.
 
