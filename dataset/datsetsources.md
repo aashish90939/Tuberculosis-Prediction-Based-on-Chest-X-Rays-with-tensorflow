@@ -2,15 +2,15 @@
 # Image characterstics in respective dataset:
 
 ## Tuberculosis (TB) Chest X-ray Database:
-3370 Normal      'tuberculosis...':512x512;around 70kb-350KB; grey ,rgb
+3370 Normal     label: 'tuberculosis...'; resolution :512x512; size: around 70kb-350KB; colorscale : grey ,rgb
 700. Tuberculosis
 
 ## Montgomery County X-ray Set: 
-80 Normal     'MCU...' : 4020x4892  ;around 5-6mb ;grey
+80 Normal     label: 'MCU...'; resolution : 4020x4892  ;size : around 5-6mb ;colorscale :grey
 58 Tuberculosis
 
 ## TBX11K:                                  
-0 Normal      'tb..'   512x512 ; 240-450kB ;rgb
+0 Normal      label: 'tb..' resolution: 512x512 ; size : around 240-450kB ;color scalergb
 800  Tuberculosis
           
  
